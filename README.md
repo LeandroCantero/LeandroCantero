@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Lcantero18@gmail.com**
 
-- 📄 Know about my experiences Now I'm working for Huenei IT Services.
+- 📄 Know about my experiences: Now I'm working for Huenei IT Services.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
