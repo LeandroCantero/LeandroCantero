@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro Cantero</h1>
 <h3 align="center">A Jr Backend Developer from Argentina</h3>
 
-- 🌱 I’m currently learning **C#, .NET Framework and Angular**
+- 🌱 I’m currently perfecting myself in java**
 
 - 📫 How to reach me **Lcantero18@gmail.com**
 
