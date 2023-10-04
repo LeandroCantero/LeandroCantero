@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro</h1>
-<h3 align="center">A Jr Fullstack Developer from Argentina</h3>
+<h3 align="center">A Jr Developer from Argentina</h3>
 
-- 🌱 I’m currently perfecting myself in **React JS**
+- 🌱 I’m currently perfecting myself in **Java**
 
 - 📫 How to reach me **Lcantero18@gmail.com**
 
